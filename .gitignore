@@ -1,3 +1,4 @@
+.env
 core/scraper/
 yarn.lock
 .vscode/
